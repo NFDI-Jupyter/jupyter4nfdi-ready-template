@@ -1,0 +1,54 @@
+Capture Date,Interview Site,Age,Gender,Amount spent,"""How often do you dine out?""","""How often do you dine at chain restaurant?""","""How much do you usually spend on dining out per year?"""
+01/07/2023,"Brooklyn, NY",18-24,F,$20,Approximately once a month,More than 50% of the time,$20–49
+01/07/2023,"Brooklyn, NY",18-24,F,$20,Every few months,More than 50% of the time,$20–49
+01/07/2023,"Brooklyn, NY",25-34,F,$60,Approximately once a year,About 50% of the time,$20–49
+03/18/2023,"Charlottesville, VA",18-24,NB,$60,Approximately once a month,100% of the time,$50–99
+03/18/2023,"Charlottesville, VA",25-34,F,$70,Approximately once a month,100% of the time,$50–99
+03/18/2023,"Charlottesville, VA",35-50,F,$45,Every few months,More than 50% of the time,$50–99
+03/18/2023,"Charlottesville, VA",50+,F,$20,Every few months,Less than 50% of the time,$50–99
+03/18/2023,"Charlottesville, VA",35-50,F,$55,Every few months,About 50% of the time,$100+
+05/14/2023,"New York, NY",25-34,F,$20,Every few months,About 50% of the time,$50–99
+05/14/2023,"New York, NY",18-24,F,$50,Every few months,About 50% of the time,$20–49
+05/14/2023,"New York, NY",Under 18,M,$20,Never,Never,Less than $20
+05/14/2023,"New York, NY",Under 18,F,$20,Approximately once a month,More than 50% of the time,$20–49
+05/14/2023,"New York, NY",Under 18,F,$20,Approximately once a month,More than 50% of the time,$20–49
+05/14/2023,"New York, NY",18-24,NB,$50,Every few months,More than 50% of the time,$50–99
+05/14/2023,"New York, NY",50+,F,$70,Approximately once a month,100% of the time,$50–99
+06/25/2023,"Charlottesville, VA",25-34,F,$65,Approximately once a year,Less than 50% of the time,$100+
+06/25/2023,"Charlottesville, VA",25-34,F,$20,Approximately once a month,About 50% of the time,$50–99
+06/25/2023,"Charlottesville, VA",25-34,F,$45,Approximately once a month,More than 50% of the time,$50–99
+06/25/2023,"Charlottesville, VA",25-34,F,$60,Approximately once a month,Less than 50% of the time,$100+
+06/25/2023,"Charlottesville, VA",35-50,F,$50,Every few months,Less than 50% of the time,$100+
+06/25/2023,"Charlottesville, VA",35-50,F,$50,Every few months,Less than 50% of the time,$50–99
+06/25/2023,"Charlottesville, VA",50+,F,$45,Every few months,About 50% of the time,$100+
+06/25/2023,"Charlottesville, VA",50+,F,$60,Every few months,About 50% of the time,$100+
+06/25/2023,"Charlottesville, VA",18-24,NB,$50,Never,Never,Less than $20
+06/25/2023,"Charlottesville, VA",35-50,M,$30,Approximately once a month,Less than 50% of the time,$20–49
+08/12/2023,"New York, NY",25-34,F,$50,Every few months,About 50% of the time,$50–99
+08/12/2023,"New York, NY",25-34,F,$55,Every few months,Less than 50% of the time,$50–99
+08/12/2023,"New York, NY",25-34,F,$45,Every few months,About 50% of the time,$50–99
+08/12/2023,"New York, NY",25-34,F,$20,Approximately once a week,About 50% of the time,$50–99
+08/12/2023,"New York, NY",35-50,F,$50,Approximately once a month,About 50% of the time,$50–99
+08/12/2023,"New York, NY",25-34,F,$60,Approximately once a week,More than 50% of the time,$100+
+08/12/2023,"New York, NY",25-34,F,$60,Approximately once a month,About 50% of the time,$50–99
+08/12/2023,"New York, NY",25-34,NB,$45,Every few months,About 50% of the time,$20–49
+08/12/2023,"New York, NY",Under 18,F,$45,Every few months,More than 50% of the time,$20–49
+08/12/2023,"New York, NY",25-34,F,$60,Approximately once a month,More than 50% of the time,$50–99
+08/19/2023,"Charlottesville, VA",35-50,F,$85,Approximately once a month,100% of the time,$100+
+08/19/2023,"Charlottesville, VA",35-50,F,$45,Approximately once a month,About 50% of the time,$50–99
+10/8/2023,"Berlin, DE",Under 18,F,€20,Every few months,More than 50% of the time,$20–49
+10/8/2023,"Berlin, DE",18-24,F,€20,Every few months,More than 50% of the time,$50–99
+10/8/2023,"Berlin, DE",Under 18,M,€20,Every few months,More than 50% of the time,Less than $20
+10/8/2023,"Berlin, DE",Under 18,F,€20,Approximately once a month,More than 50% of the time,$20–49
+10/8/2023,"Berlin, DE",18-24,F,€60,Approximately once a month,More than 50% of the time,$50–99
+10/8/2023,"Berlin, DE",18-24,F,€30,Every few months,More than 50% of the time,$20–49
+10/8/2023,"Berlin, DE",25-35,F,€30,Every few months,About 50% of the time,$50–99
+10/8/2023,"Berlin, DE",18-24,F,€45,Every few months,About 50% of the time,$20–49
+10/8/2023,"Berlin, DE",18-24,NB,€30,Never,Never,Less than $20
+10/8/2023,"Berlin, DE",18-24,F,€45,Approximately once a month,More than 50% of the time,$20–49
+10/8/2023,"Berlin, DE",50+,F,€30,Approximately once a month,More than 50% of the time,$100+
+12/02/2023,"Brooklyn, NY",18-24,F,$20,Approximately once a month,More than 50% of the time,$50–99
+12/02/2023,"Brooklyn, NY",18-24,F,$70,Every few months,About 50% of the time,$50–99
+12/02/2023,"Brooklyn, NY",25-35,M,$30,Never,Never,Less than $20
+12/02/2023,"Brooklyn, NY",18-24,M,$20,Never,Never,Less than $20
+12/02/2023,"Brooklyn, NY",18-24,F,$70,Every few months,About 50% of the time,$50–99
