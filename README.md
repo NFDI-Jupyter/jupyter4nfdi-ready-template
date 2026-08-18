@@ -13,7 +13,8 @@ Alternatively you can follow these steps:
 pandas==3.0.5
 altair==6.2.2
 ```
-5. Once you added the `requirements.txt` file, log into Jupyter4NFDI and in the Dashboard select `repo2docker` option.
+4. Once you added the `requirements.txt` file, log into Jupyter4NFDI and in the Dashboard select `repo2docker` option.
+<img width="1412" height="335" alt="image" src="https://github.com/user-attachments/assets/f0a18232-b230-4c41-8a2a-775473968ab8" />
 
 
 ## Licensing
