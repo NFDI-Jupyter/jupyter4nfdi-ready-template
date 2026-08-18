@@ -3,6 +3,19 @@
 
 This is a template repository for learning how to make a repository ready for launching it in Jupyter4NFDI using repo2docker option.  
 
+Use this template to learn how to prepare contents with Jupyter Notebook to be Jupyter4NFDI ready (using repo2docker). You can follow the training materials that can be found here https://nfdi-jupyter.github.io/learn-jupyter4nfdi-ready/
+Alternatively you can follow these steps:
+
+1. Create your own copy of the repository using this template: <img width="1315" height="211" alt="image" src="https://github.com/user-attachments/assets/c6ad8c80-c9ee-43fa-8f8e-84a9f56c2c20" />
+2. Working in your own copy of the repository add  a `requirements.txt` file which specifies the Python packages needed to run the code in the [sample Jupyter Notebook](dining_out_survey_analysis.ipynb) in this repository.
+3. The contents of the `requirements.txt` should be
+```
+pandas==3.0.5
+altair==6.2.2
+```
+5. Once you added the `requirements.txt` file, log into Jupyter4NFDI and in the Dashboard select `repo2docker` option.
+
+
 ## Licensing
 
 - **Content**: CC BY 4.0
